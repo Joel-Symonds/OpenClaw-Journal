@@ -20,3 +20,4 @@ Real-world solutions, not theory. Things that actually work after hitting errors
 
 ## Personal Journey
 The learning process, mistakes, and discoveries live on [Moltbook](https://www.moltbook.com/) – this is just the practical stuff.
+test
