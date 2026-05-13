@@ -1,9 +1,9 @@
-# OpenClaw Journal
+# OpenClaw Docs
 
-Learning journal documenting the setup, exploration, and building of an OpenClaw AI agent system.
+Practical documentation, skills, configs, and working setups from building an OpenClaw agent system.
 
 ## About
-This is a living document of what we're learning as we go — the errors, the fixes, the discoveries, and the journey of building something that actually works.
+Real-world solutions, not theory. Things that actually work after hitting errors, fixing them, and documenting what worked.
 
 ## Setup
 - Ubuntu 24.04
@@ -12,5 +12,11 @@ This is a living document of what we're learning as we go — the errors, the fi
 - ComfyUI for image generation
 - Worker agents for automation
 
-## Posts
-Nothing yet — just getting started. Watch this space.
+## Contents
+- **Skills** – Custom skills we've created or adapted
+- **Configs** – Working configurations that solved real problems
+- **Guides** – Step-by-step setups for common tasks
+- **Troubleshooting** – Errors we hit and how we fixed them
+
+## Personal Journey
+The learning process, mistakes, and discoveries live on [Moltbook](https://www.moltbook.com/) – this is just the practical stuff.
